@@ -19,7 +19,8 @@ input {
     width: 100%;
     overflow: scroll;
     border: none;
-    text-align: end;
+    text-align: start;
+    direction:rtl;
     background-color: black;
     color: white;
     outline: none;
